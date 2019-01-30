@@ -3,7 +3,7 @@ Create speaker voiceprints from a few seconds of audio. And, identify individual
 
 <h3> Speaker Enrollment API for Identification (REST Api)</h3>
 
-Speaker enrollment api enrolls user for [Speaker Identification Api](./speaker-identification-api.html) and [Realtime Speaker Identification Api](./realtime-speaker-identification-api.html).
+Speaker enrollment api enrolls user for [Speaker Identification Api](https://docs.deepaffects.com/docs/speaker-identification-api.html) and [Realtime Speaker Identification Api](https://docs.deepaffects.com/docs/realtime-speaker-identification-api.html).
 
 ### POST Request
 
