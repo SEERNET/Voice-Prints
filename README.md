@@ -32,7 +32,8 @@ curl -X POST "https://proxy.api.deepaffects.com/audio/generic/api/v1/sync/diariz
 >  Repeat the enrollment with different audios untill the status message changes to
 > "Complete". Then proceed with speaker identification
 
- <br />
+
+
 > Enroll a user atleast thrice with 3 different audio, each about 10-12 seconds.
 > The more diverse the enrollment audio files, the better the accuracy for identification.
 
